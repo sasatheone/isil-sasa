@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879467273704",
+    "project_id": "isil-sasa",
+    "storage_bucket": "isil-sasa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879467273704:android:495a861827d366400d585d",
+        "android_client_info": {
+          "package_name": "com.example.isil_flutter_sasa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgWfeq1Z_0OutnYXqidLP6xa2eYrywKOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
